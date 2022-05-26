@@ -1,2 +1,2 @@
 # test
-rest repo
+rest report fot git commands demonstration
